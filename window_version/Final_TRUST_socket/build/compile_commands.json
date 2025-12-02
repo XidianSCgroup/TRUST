@@ -1,0 +1,20 @@
+[
+{
+  "directory": "E:/code/TRUST/window_version/Final_TRUST_socket/build",
+  "command": "D:\\mingw64\\bin\\g++.exe  @CMakeFiles/CP.dir/includes_CXX.rsp -g -fopenmp -o CMakeFiles\\CP.dir\\CP.cpp.obj -c E:\\code\\TRUST\\window_version\\Final_TRUST_socket\\CP.cpp",
+  "file": "E:/code/TRUST/window_version/Final_TRUST_socket/CP.cpp",
+  "output": "CMakeFiles/CP.dir/CP.cpp.obj"
+},
+{
+  "directory": "E:/code/TRUST/window_version/Final_TRUST_socket/build",
+  "command": "D:\\mingw64\\bin\\g++.exe  @CMakeFiles/CSP.dir/includes_CXX.rsp -g -fopenmp -o CMakeFiles\\CSP.dir\\CSP.cpp.obj -c E:\\code\\TRUST\\window_version\\Final_TRUST_socket\\CSP.cpp",
+  "file": "E:/code/TRUST/window_version/Final_TRUST_socket/CSP.cpp",
+  "output": "CMakeFiles/CSP.dir/CSP.cpp.obj"
+},
+{
+  "directory": "E:/code/TRUST/window_version/Final_TRUST_socket/build",
+  "command": "D:\\mingw64\\bin\\g++.exe  @CMakeFiles/Client.dir/includes_CXX.rsp -g -fopenmp -o CMakeFiles\\Client.dir\\Client.cpp.obj -c E:\\code\\TRUST\\window_version\\Final_TRUST_socket\\Client.cpp",
+  "file": "E:/code/TRUST/window_version/Final_TRUST_socket/Client.cpp",
+  "output": "CMakeFiles/Client.dir/Client.cpp.obj"
+}
+]

@@ -1,0 +1,5 @@
+E:/code/TRUST/window_version/Final_TRUST_socket/build/CMakeFiles/CP.dir
+E:/code/TRUST/window_version/Final_TRUST_socket/build/CMakeFiles/CSP.dir
+E:/code/TRUST/window_version/Final_TRUST_socket/build/CMakeFiles/Client.dir
+E:/code/TRUST/window_version/Final_TRUST_socket/build/CMakeFiles/edit_cache.dir
+E:/code/TRUST/window_version/Final_TRUST_socket/build/CMakeFiles/rebuild_cache.dir

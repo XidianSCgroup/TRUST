@@ -5,7 +5,7 @@ Secure outsourced computation (SOC) provides secure computing services by taking
 
 ### Introduction
 
-安全外包计算领域，基于门限 Paillier 加密算法（PaililerTD, FastPaiTD），涵盖了论文 [POCF](https://ieeexplore.ieee.org/abstract/document/7500106)、[SOCI](https://ieeexplore.ieee.org/abstract/document/9908577)、[SOCI+](https://ieeexplore.ieee.org/abstract/document/10531248) 和 [TRUST](https://arxiv.org/abs/2412.01073) 的实现。
+安全外包计算领域，基于门限 Paillier 加密算法（PaililerTD, FastPaiTD），涵盖了论文 [POCF](https://ieeexplore.ieee.org/abstract/document/7500106)、[SOCI](https://ieeexplore.ieee.org/abstract/document/9908577)、[SOCI+](https://ieeexplore.ieee.org/abstract/document/10531248) 和 [TRUST](https://www.sciencedirect.com/science/article/pii/S2667325825005163) 的实现。
 
 ## :memo: 文件概览
 
