@@ -59,9 +59,9 @@ Secure outsourced computation (SOC) provides secure computing services by taking
 
 在Linux环境下，即使是轻微的网络I/O活动，也会促使操作系统调度器更频繁地中断计算线程，并将其在不同CPU核心间迁移。每一次迁移都可能导致昂贵的CPU缓存失效 (Cache Miss)，迫使数据从主内存重新加载，从而严重拖慢了GMP的高精度计算速度。相比之下，Windows的调度策略在这种混合负载下表现得更为稳定，使得计算线程免受此类干扰，因而维持了接近纯计算版本的性能。
 
-Winodw `simple_version/TRUST_C++` - Windows Performance Toolkit
+Window `simple_version/TRUST_C++` - Windows Performance Toolkit
 
-Winodw `socket_version/SOCI+_socket` - Windows Performance Toolkit
+Window `socket_version/SOCI+_socket` - Windows Performance Toolkit
 
 Linux `simple_version/TRUST_C++` - perf report
   - 733 context-switches                                                                        
